@@ -8,5 +8,6 @@ public class MainNode {
         Node node1 = new Node(6);
             Head.Next = node1;
                 System.out.println("AAAAAAAAAA");
+
         }
     }

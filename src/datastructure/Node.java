@@ -6,5 +6,6 @@ public class Node {
     public Node Next;
     public Node(int data) {
         Data = data;
+
     }
 }
