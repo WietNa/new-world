@@ -1,13 +1,12 @@
 package datastructure;
 
-import org.w3c.dom.Node;
-import javax.xml.crypto.Data;
-
 public class MainNode {
     private static Node Head = null;
     public static void main(String[] args) {
-        Node node = new Node(Data:7);
-        Head = node;
-        System.out.println("AAAAAAAAAA");
+        Node node = new Node(3);
+            Head = node;
+        Node node1 = new Node(6);
+            Head.Next = node1;
+                System.out.println("AAAAAAAAAA");
+        }
     }
-}
