@@ -1,7 +1,6 @@
 package datastructure;
 
 class ToaDa {
-
     private int x;
     private int y;
     private String a;

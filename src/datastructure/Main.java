@@ -1,5 +1,4 @@
 package datastructure;
-
 public class Main {
 
     private static datastructure.NodeList Head;
